@@ -1,0 +1,4 @@
+spark-submit --master local SimpleApp.py
+spark-submit --master local SimpleApp.py
+
+spark-submit --master local[2] SimpleApp.py
