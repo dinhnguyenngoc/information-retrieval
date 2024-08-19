@@ -1,0 +1,1 @@
+ví dụ về cách sử dụng Spark MLlib để tính toán TF-IDF và tính độ tương đồng giữa một câu truy vấn và các văn bản trong một tập dữ liệu. Chúng ta sẽ sử dụng mô-đun HashingTF và IDF từ Spark MLlib để tính toán TF-IDF, sau đó sử dụng Cosine Similarity để tính độ tương đồng giữa câu truy vấn và các văn bản.
